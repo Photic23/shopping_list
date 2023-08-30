@@ -4,4 +4,4 @@ NPM     : 2206082335
 
 Kelas   : PBP E
 
-Hobi    : Tidur
+Hobi    : Tidurg
