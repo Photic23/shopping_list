@@ -1,7 +1,9 @@
-Nama    : Naufal Mahdy Hanif
+Nama    : Kevin Ivan Eda Radhiyya
 
-NPM     : 2206082335
+NPM     : 2201233210
 
-Kelas   : PBP E
+Kelas   : PBP B
 
-Hobi    : Tidurg
+Hobi    : Tidur
+
+Jurusan : Ilmu Sistem Informasi Komputer
